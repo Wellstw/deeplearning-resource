@@ -4,3 +4,5 @@
 https://www.youtube.com/watch?v=JNlEIEwe-Cg  
 https://jakevdp.github.io/PythonDataScienceHandbook/05.12-gaussian-mixtures.html
 
+rnnlm arpa to wfst 
+https://github.com/kaldi-asr/kaldi/tree/master/src/lm
